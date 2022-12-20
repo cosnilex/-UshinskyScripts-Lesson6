@@ -1,4 +1,4 @@
-# -UshinskyScripts-Lesson6
+# UshinskyScripts-Lesson6
 Задание для шестого урока школы системного администрирования Python (Тензор)
 
 В репозиторию добавлен коммит (скрипты) с UshinskyScript1.py по UshinskyScript3.py  
