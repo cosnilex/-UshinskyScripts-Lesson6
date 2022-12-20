@@ -3,6 +3,7 @@
 
 В репозиторию добавлен коммит (скрипты) с UshinskyScript1.py по UshinskyScript3.py  
 Картинки ".png" c Script1Result.png по Script3Result.png, где изображены результаты выполненных скриптов.    
+
 Файлы "Input.txt", "Output.txt". 
 Input.txt - 3 натуральных числа: C, H, O для второго задания. Output.txt - максимально возможное число молекул спирта также для второго задания  
 
